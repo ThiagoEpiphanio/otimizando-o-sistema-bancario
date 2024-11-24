@@ -1,4 +1,5 @@
 Nesse desafio, foram implementadas funções, no código anterior.
 
 Embora tenha entendido a lógica proposta, tive dificuldades de colocar em código.
-Créditos ao instrutor Guilherme Carvalho.
+Foram mais de 2 dias para implementar esse código rsrs.
+Infelizmente, não consegui fazer uma solução mais clean.
